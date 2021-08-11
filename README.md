@@ -5,4 +5,4 @@ A repository including some small web projects. Every project was done using onl
 No. | Project name
 ----|--------------
 1 | [Blurry loading image](https://github.com/Numulix/mini-web-projects/tree/main/blurry%20loading)
-2 | Double Vertical Slider
+2 | [Double Vertical Slider](https://github.com/Numulix/mini-web-projects/tree/main/double-vertical-slider)
